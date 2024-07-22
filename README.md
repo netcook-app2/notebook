@@ -17,7 +17,7 @@ from netcook_notebook import checked_cookies, netflix_url
 
 checked_cookies(netflix_url)
 ```
-2. Good luck 🔥
+3. Good luck 🔥
 
 ## 📸 Example
 
